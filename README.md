@@ -2,7 +2,7 @@
 The Wireshark packet parser and visualizer extracts information from .pcapng files and visualizes network traffic data.
 
 ## Dependencies
-To run this project, you need to have the following libraries:
+You need to have the following libraries:
 
 * pandas
 * scapy
