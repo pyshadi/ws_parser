@@ -2,7 +2,7 @@ import pandas as pd
 from scapy.all import *
 from scapy.layers.http import HTTPRequest
 from bokeh.plotting import figure, show
-from bokeh.models import DatetimeTickFormatter, HoverTool, ColumnDataSource, DataTable, TableColumn, DateFormatter
+from bokeh.models import HoverTool, ColumnDataSource, DataTable, TableColumn
 import base64
 
 
