@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Ignore all .iml files (typically used by IntelliJ IDEA)
+*.iml
+
+# Ignore all .pyc files (Python compiled files)
+*.pyc
+
+uploads/capture_00001_20230205165105.pcapng
