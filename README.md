@@ -1,5 +1,5 @@
 # Wireshark Packet Parser and Visualizer
-This is a wireshark packet parser and visualizer implementation. The code extracts information from .pcapng files and visualizes network traffic data.
+This is a wireshark packet parser and visualizer. The code extracts information from .pcapng files and visualizes network traffic data.
 
 ## Dependencies
 You need to have the following libraries:
